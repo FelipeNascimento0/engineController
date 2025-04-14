@@ -1,5 +1,5 @@
 
-#include <TimerOne.h>  // Inclui a biblioteca TimerOne
+#include <TimerOne.h>  
 
 // Definição dos pinos para os mosfet
 const int MOSFET_A1 = 2;  // MOSFET A/1
